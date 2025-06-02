@@ -1,0 +1,19 @@
+C:\Users\PC\Desktop\NTP\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\bin\Debug\3 ve 5 bölünen sayılar.exe.config
+C:\Users\PC\Desktop\NTP\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\bin\Debug\3 ve 5 bölünen sayılar.exe
+C:\Users\PC\Desktop\NTP\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\bin\Debug\3 ve 5 bölünen sayılar.pdb
+C:\Users\PC\Desktop\NTP\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\_3_ve_5_bölünen_sayılar.Form1.resources
+C:\Users\PC\Desktop\NTP\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\_3_ve_5_bölünen_sayılar.Properties.Resources.resources
+C:\Users\PC\Desktop\NTP\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\3 ve 5 bölünen sayılar.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\NTP\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\3 ve 5 bölünen sayılar.exe
+C:\Users\PC\Desktop\NTP\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\3 ve 5 bölünen sayılar.pdb
+C:\Users\PC\Desktop\NTP\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\3 ve 5 bölünen sayılar.csprojResolveAssemblyReference.cache
+F:\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\bin\Debug\3 ve 5 bölünen sayılar.exe.config
+F:\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\bin\Debug\3 ve 5 bölünen sayılar.exe
+F:\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\bin\Debug\3 ve 5 bölünen sayılar.pdb
+F:\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\_3_ve_5_bölünen_sayılar.Form1.resources
+F:\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\_3_ve_5_bölünen_sayılar.Properties.Resources.resources
+F:\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\3 ve 5 bölünen sayılar.csproj.GenerateResource.cache
+F:\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\3 ve 5 bölünen sayılar.csproj.CoreCompileInputs.cache
+F:\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\3 ve 5 bölünen sayılar.exe
+F:\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\3 ve 5 bölünen sayılar.pdb
+F:\3 ve 5 bölünen sayılar\3 ve 5 bölünen sayılar\obj\Debug\3 ve 5 bölünen sayılar.csprojAssemblyReference.cache

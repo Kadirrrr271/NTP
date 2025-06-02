@@ -1,0 +1,10 @@
+C:\Users\LxOx\Desktop\NTP\1 boyutlu dizilerde kullanılan özellikler ve metot\1 boyutlu dizilerde kullanılan özellikler ve metot\obj\Debug\1 boyutlu dizilerde kullanılan özellikler ve metot.csprojAssemblyReference.cache
+C:\Users\LxOx\Desktop\NTP\1 boyutlu dizilerde kullanılan özellikler ve metot\1 boyutlu dizilerde kullanılan özellikler ve metot\obj\Debug\_1_boyutlu_dizilerde_kullanılan_özellikler_ve_metot.Form1.resources
+C:\Users\LxOx\Desktop\NTP\1 boyutlu dizilerde kullanılan özellikler ve metot\1 boyutlu dizilerde kullanılan özellikler ve metot\obj\Debug\_1_boyutlu_dizilerde_kullanılan_özellikler_ve_metot.Properties.Resources.resources
+C:\Users\LxOx\Desktop\NTP\1 boyutlu dizilerde kullanılan özellikler ve metot\1 boyutlu dizilerde kullanılan özellikler ve metot\obj\Debug\1 boyutlu dizilerde kullanılan özellikler ve metot.csproj.GenerateResource.cache
+C:\Users\LxOx\Desktop\NTP\1 boyutlu dizilerde kullanılan özellikler ve metot\1 boyutlu dizilerde kullanılan özellikler ve metot\obj\Debug\1 boyutlu dizilerde kullanılan özellikler ve metot.csproj.CoreCompileInputs.cache
+C:\Users\LxOx\Desktop\NTP\1 boyutlu dizilerde kullanılan özellikler ve metot\1 boyutlu dizilerde kullanılan özellikler ve metot\bin\Debug\1 boyutlu dizilerde kullanılan özellikler ve metot.exe.config
+C:\Users\LxOx\Desktop\NTP\1 boyutlu dizilerde kullanılan özellikler ve metot\1 boyutlu dizilerde kullanılan özellikler ve metot\bin\Debug\1 boyutlu dizilerde kullanılan özellikler ve metot.exe
+C:\Users\LxOx\Desktop\NTP\1 boyutlu dizilerde kullanılan özellikler ve metot\1 boyutlu dizilerde kullanılan özellikler ve metot\bin\Debug\1 boyutlu dizilerde kullanılan özellikler ve metot.pdb
+C:\Users\LxOx\Desktop\NTP\1 boyutlu dizilerde kullanılan özellikler ve metot\1 boyutlu dizilerde kullanılan özellikler ve metot\obj\Debug\1 boyutlu dizilerde kullanılan özellikler ve metot.exe
+C:\Users\LxOx\Desktop\NTP\1 boyutlu dizilerde kullanılan özellikler ve metot\1 boyutlu dizilerde kullanılan özellikler ve metot\obj\Debug\1 boyutlu dizilerde kullanılan özellikler ve metot.pdb

@@ -1,0 +1,10 @@
+C:\Users\LxOx\Desktop\03.03.2024 NTP\ArrayListÖrnek2\ArrayListÖrnek2\bin\Debug\ArrayListÖrnek2.exe.config
+C:\Users\LxOx\Desktop\03.03.2024 NTP\ArrayListÖrnek2\ArrayListÖrnek2\bin\Debug\ArrayListÖrnek2.exe
+C:\Users\LxOx\Desktop\03.03.2024 NTP\ArrayListÖrnek2\ArrayListÖrnek2\bin\Debug\ArrayListÖrnek2.pdb
+C:\Users\LxOx\Desktop\03.03.2024 NTP\ArrayListÖrnek2\ArrayListÖrnek2\obj\Debug\ArrayListÖrnek2.csprojAssemblyReference.cache
+C:\Users\LxOx\Desktop\03.03.2024 NTP\ArrayListÖrnek2\ArrayListÖrnek2\obj\Debug\ArrayListÖrnek2.Form1.resources
+C:\Users\LxOx\Desktop\03.03.2024 NTP\ArrayListÖrnek2\ArrayListÖrnek2\obj\Debug\ArrayListÖrnek2.Properties.Resources.resources
+C:\Users\LxOx\Desktop\03.03.2024 NTP\ArrayListÖrnek2\ArrayListÖrnek2\obj\Debug\ArrayListÖrnek2.csproj.GenerateResource.cache
+C:\Users\LxOx\Desktop\03.03.2024 NTP\ArrayListÖrnek2\ArrayListÖrnek2\obj\Debug\ArrayListÖrnek2.csproj.CoreCompileInputs.cache
+C:\Users\LxOx\Desktop\03.03.2024 NTP\ArrayListÖrnek2\ArrayListÖrnek2\obj\Debug\ArrayListÖrnek2.exe
+C:\Users\LxOx\Desktop\03.03.2024 NTP\ArrayListÖrnek2\ArrayListÖrnek2\obj\Debug\ArrayListÖrnek2.pdb
