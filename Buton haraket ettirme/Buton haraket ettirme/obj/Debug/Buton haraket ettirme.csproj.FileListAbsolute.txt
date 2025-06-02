@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\NTP\Buton haraket ettirme\Buton haraket ettirme\bin\Debug\Buton haraket ettirme.exe.config
+C:\Users\PC\Desktop\NTP\Buton haraket ettirme\Buton haraket ettirme\bin\Debug\Buton haraket ettirme.exe
+C:\Users\PC\Desktop\NTP\Buton haraket ettirme\Buton haraket ettirme\bin\Debug\Buton haraket ettirme.pdb
+C:\Users\PC\Desktop\NTP\Buton haraket ettirme\Buton haraket ettirme\obj\Debug\Buton haraket ettirme.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\NTP\Buton haraket ettirme\Buton haraket ettirme\obj\Debug\Buton_haraket_ettirme.Form1.resources
+C:\Users\PC\Desktop\NTP\Buton haraket ettirme\Buton haraket ettirme\obj\Debug\Buton_haraket_ettirme.Properties.Resources.resources
+C:\Users\PC\Desktop\NTP\Buton haraket ettirme\Buton haraket ettirme\obj\Debug\Buton haraket ettirme.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\NTP\Buton haraket ettirme\Buton haraket ettirme\obj\Debug\Buton haraket ettirme.exe
+C:\Users\PC\Desktop\NTP\Buton haraket ettirme\Buton haraket ettirme\obj\Debug\Buton haraket ettirme.pdb

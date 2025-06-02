@@ -1,0 +1,7 @@
+C:\Users\LxOx\Desktop\NTP1\ConsoleDiziUygulaması\ConsoleDiziUygulaması\bin\Debug\ConsoleDiziUygulaması.exe.config
+C:\Users\LxOx\Desktop\NTP1\ConsoleDiziUygulaması\ConsoleDiziUygulaması\bin\Debug\ConsoleDiziUygulaması.exe
+C:\Users\LxOx\Desktop\NTP1\ConsoleDiziUygulaması\ConsoleDiziUygulaması\bin\Debug\ConsoleDiziUygulaması.pdb
+C:\Users\LxOx\Desktop\NTP1\ConsoleDiziUygulaması\ConsoleDiziUygulaması\obj\Debug\ConsoleDiziUygulaması.csprojAssemblyReference.cache
+C:\Users\LxOx\Desktop\NTP1\ConsoleDiziUygulaması\ConsoleDiziUygulaması\obj\Debug\ConsoleDiziUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\LxOx\Desktop\NTP1\ConsoleDiziUygulaması\ConsoleDiziUygulaması\obj\Debug\ConsoleDiziUygulaması.exe
+C:\Users\LxOx\Desktop\NTP1\ConsoleDiziUygulaması\ConsoleDiziUygulaması\obj\Debug\ConsoleDiziUygulaması.pdb
