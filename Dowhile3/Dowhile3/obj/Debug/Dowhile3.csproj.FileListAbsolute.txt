@@ -1,0 +1,5 @@
+C:\Users\Kadir\Desktop\NTP2\Dowhile3\Dowhile3\obj\Debug\Dowhile3.csproj.AssemblyReference.cache
+C:\Users\Kadir\Desktop\NTP2\Dowhile3\Dowhile3\obj\Debug\Dowhile3.Form1.resources
+C:\Users\Kadir\Desktop\NTP2\Dowhile3\Dowhile3\obj\Debug\Dowhile3.Properties.Resources.resources
+C:\Users\Kadir\Desktop\NTP2\Dowhile3\Dowhile3\obj\Debug\Dowhile3.csproj.GenerateResource.cache
+C:\Users\Kadir\Desktop\NTP2\Dowhile3\Dowhile3\obj\Debug\Dowhile3.csproj.CoreCompileInputs.cache

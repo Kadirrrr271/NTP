@@ -1,0 +1,10 @@
+C:\Users\Kadir\Desktop\NTP2\Dowhile2\Dowhile2\obj\Debug\Dowhile2.csproj.AssemblyReference.cache
+C:\Users\Kadir\Desktop\NTP2\Dowhile2\Dowhile2\obj\Debug\Dowhile2.Form1.resources
+C:\Users\Kadir\Desktop\NTP2\Dowhile2\Dowhile2\obj\Debug\Dowhile2.Properties.Resources.resources
+C:\Users\Kadir\Desktop\NTP2\Dowhile2\Dowhile2\obj\Debug\Dowhile2.csproj.GenerateResource.cache
+C:\Users\Kadir\Desktop\NTP2\Dowhile2\Dowhile2\obj\Debug\Dowhile2.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\NTP2\Dowhile2\Dowhile2\bin\Debug\Dowhile2.exe.config
+C:\Users\Kadir\Desktop\NTP2\Dowhile2\Dowhile2\bin\Debug\Dowhile2.exe
+C:\Users\Kadir\Desktop\NTP2\Dowhile2\Dowhile2\bin\Debug\Dowhile2.pdb
+C:\Users\Kadir\Desktop\NTP2\Dowhile2\Dowhile2\obj\Debug\Dowhile2.exe
+C:\Users\Kadir\Desktop\NTP2\Dowhile2\Dowhile2\obj\Debug\Dowhile2.pdb
