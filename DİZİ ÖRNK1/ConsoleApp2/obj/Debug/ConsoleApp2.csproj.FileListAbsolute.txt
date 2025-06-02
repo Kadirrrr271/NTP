@@ -1,0 +1,14 @@
+C:\Users\LxOx\Desktop\Test\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\LxOx\Desktop\Test\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\LxOx\Desktop\Test\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\LxOx\Desktop\Test\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\LxOx\Desktop\Test\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\LxOx\Desktop\Test\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\LxOx\Desktop\Test\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\DİZİ ÖRNK1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\DİZİ ÖRNK1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\DİZİ ÖRNK1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\DİZİ ÖRNK1\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+F:\DİZİ ÖRNK1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\DİZİ ÖRNK1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\DİZİ ÖRNK1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,7 @@
+C:\Users\LxOx\Desktop\Test\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\LxOx\Desktop\Test\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\LxOx\Desktop\Test\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\LxOx\Desktop\Test\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\LxOx\Desktop\Test\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\LxOx\Desktop\Test\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\LxOx\Desktop\Test\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

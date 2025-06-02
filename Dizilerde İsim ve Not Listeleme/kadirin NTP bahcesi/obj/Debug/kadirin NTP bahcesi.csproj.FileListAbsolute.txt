@@ -1,0 +1,10 @@
+C:\Users\LxOx\source\repos\kadirin NTP bahcesi\kadirin NTP bahcesi\obj\Debug\kadirin NTP bahcesi.csprojAssemblyReference.cache
+C:\Users\LxOx\source\repos\kadirin NTP bahcesi\kadirin NTP bahcesi\obj\Debug\kadirin_NTP_bahcesi.Form1.resources
+C:\Users\LxOx\source\repos\kadirin NTP bahcesi\kadirin NTP bahcesi\obj\Debug\kadirin_NTP_bahcesi.Properties.Resources.resources
+C:\Users\LxOx\source\repos\kadirin NTP bahcesi\kadirin NTP bahcesi\obj\Debug\kadirin NTP bahcesi.csproj.GenerateResource.cache
+C:\Users\LxOx\source\repos\kadirin NTP bahcesi\kadirin NTP bahcesi\obj\Debug\kadirin NTP bahcesi.csproj.CoreCompileInputs.cache
+C:\Users\LxOx\source\repos\kadirin NTP bahcesi\kadirin NTP bahcesi\bin\Debug\kadirin NTP bahcesi.exe.config
+C:\Users\LxOx\source\repos\kadirin NTP bahcesi\kadirin NTP bahcesi\bin\Debug\kadirin NTP bahcesi.exe
+C:\Users\LxOx\source\repos\kadirin NTP bahcesi\kadirin NTP bahcesi\bin\Debug\kadirin NTP bahcesi.pdb
+C:\Users\LxOx\source\repos\kadirin NTP bahcesi\kadirin NTP bahcesi\obj\Debug\kadirin NTP bahcesi.exe
+C:\Users\LxOx\source\repos\kadirin NTP bahcesi\kadirin NTP bahcesi\obj\Debug\kadirin NTP bahcesi.pdb
