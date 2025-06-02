@@ -1,0 +1,10 @@
+C:\Users\Kadir\Desktop\NTP2\At uygulaması\At uygulaması\bin\Debug\At uygulaması.exe.config
+C:\Users\Kadir\Desktop\NTP2\At uygulaması\At uygulaması\bin\Debug\At uygulaması.exe
+C:\Users\Kadir\Desktop\NTP2\At uygulaması\At uygulaması\bin\Debug\At uygulaması.pdb
+C:\Users\Kadir\Desktop\NTP2\At uygulaması\At uygulaması\obj\Debug\At uygulaması.csproj.AssemblyReference.cache
+C:\Users\Kadir\Desktop\NTP2\At uygulaması\At uygulaması\obj\Debug\At_uygulaması.Form1.resources
+C:\Users\Kadir\Desktop\NTP2\At uygulaması\At uygulaması\obj\Debug\At_uygulaması.Properties.Resources.resources
+C:\Users\Kadir\Desktop\NTP2\At uygulaması\At uygulaması\obj\Debug\At uygulaması.csproj.GenerateResource.cache
+C:\Users\Kadir\Desktop\NTP2\At uygulaması\At uygulaması\obj\Debug\At uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\NTP2\At uygulaması\At uygulaması\obj\Debug\At uygulaması.exe
+C:\Users\Kadir\Desktop\NTP2\At uygulaması\At uygulaması\obj\Debug\At uygulaması.pdb
