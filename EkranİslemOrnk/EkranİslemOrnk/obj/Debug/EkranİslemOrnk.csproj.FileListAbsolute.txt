@@ -1,0 +1,7 @@
+C:\Users\LxOx\Desktop\15.05.2024\EkranİslemOrnk\EkranİslemOrnk\bin\Debug\EkranİslemOrnk.exe.config
+C:\Users\LxOx\Desktop\15.05.2024\EkranİslemOrnk\EkranİslemOrnk\bin\Debug\EkranİslemOrnk.exe
+C:\Users\LxOx\Desktop\15.05.2024\EkranİslemOrnk\EkranİslemOrnk\bin\Debug\EkranİslemOrnk.pdb
+C:\Users\LxOx\Desktop\15.05.2024\EkranİslemOrnk\EkranİslemOrnk\obj\Debug\EkranİslemOrnk.csprojAssemblyReference.cache
+C:\Users\LxOx\Desktop\15.05.2024\EkranİslemOrnk\EkranİslemOrnk\obj\Debug\EkranİslemOrnk.csproj.CoreCompileInputs.cache
+C:\Users\LxOx\Desktop\15.05.2024\EkranİslemOrnk\EkranİslemOrnk\obj\Debug\EkranİslemOrnk.exe
+C:\Users\LxOx\Desktop\15.05.2024\EkranİslemOrnk\EkranİslemOrnk\obj\Debug\EkranİslemOrnk.pdb

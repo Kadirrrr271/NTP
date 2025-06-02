@@ -1,0 +1,7 @@
+C:\Users\LxOx\Desktop\15.05.2024\asdf\asdf\bin\Debug\asdf.exe.config
+C:\Users\LxOx\Desktop\15.05.2024\asdf\asdf\bin\Debug\asdf.exe
+C:\Users\LxOx\Desktop\15.05.2024\asdf\asdf\bin\Debug\asdf.pdb
+C:\Users\LxOx\Desktop\15.05.2024\asdf\asdf\obj\Debug\asdf.csprojAssemblyReference.cache
+C:\Users\LxOx\Desktop\15.05.2024\asdf\asdf\obj\Debug\asdf.csproj.CoreCompileInputs.cache
+C:\Users\LxOx\Desktop\15.05.2024\asdf\asdf\obj\Debug\asdf.exe
+C:\Users\LxOx\Desktop\15.05.2024\asdf\asdf\obj\Debug\asdf.pdb

@@ -1,0 +1,7 @@
+C:\Users\LxOx\Desktop\15.05.2024\ClassOzelliklerOrnk\ClassOzelliklerOrnk\bin\Debug\ClassOzelliklerOrnk.exe.config
+C:\Users\LxOx\Desktop\15.05.2024\ClassOzelliklerOrnk\ClassOzelliklerOrnk\bin\Debug\ClassOzelliklerOrnk.exe
+C:\Users\LxOx\Desktop\15.05.2024\ClassOzelliklerOrnk\ClassOzelliklerOrnk\bin\Debug\ClassOzelliklerOrnk.pdb
+C:\Users\LxOx\Desktop\15.05.2024\ClassOzelliklerOrnk\ClassOzelliklerOrnk\obj\Debug\ClassOzelliklerOrnk.csprojAssemblyReference.cache
+C:\Users\LxOx\Desktop\15.05.2024\ClassOzelliklerOrnk\ClassOzelliklerOrnk\obj\Debug\ClassOzelliklerOrnk.csproj.CoreCompileInputs.cache
+C:\Users\LxOx\Desktop\15.05.2024\ClassOzelliklerOrnk\ClassOzelliklerOrnk\obj\Debug\ClassOzelliklerOrnk.exe
+C:\Users\LxOx\Desktop\15.05.2024\ClassOzelliklerOrnk\ClassOzelliklerOrnk\obj\Debug\ClassOzelliklerOrnk.pdb
